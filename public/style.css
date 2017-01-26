@@ -22,10 +22,12 @@ p{
   border: 1px solid black;
   width: 65%;
   margin: auto;
+  padding: 30px;
 }
 
 #wave-dropdown {
-  margin-top: 3%
+  margin: 3% 0 3% 0
+
 }
 
 #wave-type {
@@ -33,9 +35,10 @@ p{
 }
 
 #keyboard {
-/*  left: 20%;
-  right: 20%;*/
+  left: 20%;
+  right: 20%;
   padding: 5%;
+  margin: 20px 0 20px 0;
 }
 
 .adsr div {
